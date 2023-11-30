@@ -18,9 +18,9 @@
   "dependencies": {
     "@myntra/eslint-config-standard": "1.13.*",
     "debug": "^3.1.0",
-    "eslint": "^4.19.1",
+    "eslint": "^6.0.0",
     "execa": "^0.10.0",
-    "glob": "^7.1.2",
+    "glob": "^9.0.0",
     "jscodeshift": "^0.5.1",
     "jsdoc-api": "^4.0.3",
     "prettier": "^1.13.4"
